@@ -1,13 +1,3 @@
-## 📚 Table of Contents
-
-- [List 1: Git Push Error](#Git Push Error: `non-fast-forward`)
-
-
-
-
-
-
-
 ## 🚧 Git Push Error: `non-fast-forward` – How to Resolve It
 
 ### ❓ Problem Description
